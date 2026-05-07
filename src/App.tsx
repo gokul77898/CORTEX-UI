@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { motion, useMotionValue, useSpring, useTransform } from 'framer-motion';
-import { Terminal, Cpu, Network, Zap, Copy, Check, ChevronRight, Sparkles, Shield, Database, Layout } from 'lucide-react';
+import { Terminal, Cpu, Network, Zap, Copy, Check, Sparkles, Shield, Database, Layout } from 'lucide-react';
 import Background3D from './Background3D';
 import './index.css';
 
